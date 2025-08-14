@@ -1,5 +1,5 @@
 # Banco Capital
-# EM DESENVOLVIEMENTO
+# EM DESENVOLVIMENTO
 Descrição
 
 O Banco Capital é um sistema bancário desenvolvido para simular operações financeiras essenciais, como abertura de contas, depósitos, saques e consultas de saldo. O projeto visa proporcionar o conhecimento em Python, Rede local, Front-end e Back-end, 

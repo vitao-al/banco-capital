@@ -29,7 +29,7 @@ Irá se deparar com esse log caso dê tudo certo.
     Aguardando conexão...
 ```
 2° Etapa: baixar esse repositório e retirar separar a pasta "banco-capital-client"
-3° Etapa: navegar até o diretório que você colocou a pasta "banco-capital-client" e rodar o seguinte comando para abrir a INTERFACE.
+3° Etapa: navegar até o diretório que você colocou a pasta "banco-capital-client" e rodar o seguinte comando para abrir a INTERFACE GRÁFICA.
 ```python
     python Banco_Capital.py
 
@@ -39,3 +39,16 @@ Essa é a resposta do servidor ao se conectar com lado do cliente.
 Conectado a ('127.0.0.1', 54401)
 
 ```
+## Telas do Projeto
+
+### Tela de Login
+![Tela de Login](assets-readme/login.png)
+
+### Tela de cadastro
+![Tela de cadastro](assets-readme/cadastro.png)
+
+### Tela de dashboard
+![Tela de dashboard](assets-readme/dashboard.jpg)
+
+### Tela de Transferência
+![Tela de Transferência](assets/tela_transferencia.png)

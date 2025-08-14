@@ -4,7 +4,7 @@ Descrição
 
 O Banco Capital é um sistema bancário desenvolvido para simular operações financeiras essenciais, como abertura de contas, depósitos, saques e consultas de saldo. O projeto visa proporcionar o conhecimento em Python, Rede local, Front-end e Back-end, 
 
-utilizando a linguagem  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+utilizando a linguagem  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) e o framework Custom Tkinter.
 
 # Estrutura do projeto
 ```python
@@ -41,14 +41,12 @@ Conectado a ('127.0.0.1', 54401)
 ```
 ## Telas do Projeto
 
-### Tela de Login
-![Tela de Login](assets-readme/login.png)
+<h3>Tela de Login</h3>
+<img src="assets-readme/login.png" width="400" heigth="100">
 
-### Tela de cadastro
-![Tela de cadastro](assets-readme/cadastro.png)
+<h3>Tela de Cadastro</h3>
+<img src="assets-readme/cadastro.jpg" width="400" heigth="100">
 
-### Tela de dashboard
-![Tela de dashboard](assets-readme/dashboard.jpg)
+<h3>Tela de Dashboard</h3>
+<img src="assets-readme/dashboard.jpg" width="400" heigth="100">
 
-### Tela de Transferência
-![Tela de Transferência](assets/tela_transferencia.png)

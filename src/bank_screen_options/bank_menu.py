@@ -53,7 +53,7 @@ def bank_menu():
                 continue
             transferencia_target = client_get_user_target(numero_conta)
             print(
-                "Os dados da transferencia estão correto?:\n{} DADOS DA TRANSFERENCIA{}\n* nome:{}\n* Valor:{}".format("=" * 6, "=" * 6, transferencia_target["nome"], valor_transferencia)
+                f"Os dados da transferencia estão correto?:\n{'=' * 6} DADOS DA TRANSFERENCIA{'=' * 6}\n* nome:{transferencia_target['nome']}\n* Valor:{valor_transferencia}"
             )
             confirmar_transferencia = input("confirmar transferencia(s/n):")
             if confirmar_transferencia.lower() == "s":

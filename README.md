@@ -1,5 +1,5 @@
 # Banco Capital
-
+# EM DESENVOLVIEMENTO
 Descrição
 
 O Banco Capital é um sistema bancário desenvolvido para simular operações financeiras essenciais, como abertura de contas, depósitos, saques e consultas de saldo. O projeto visa proporcionar o conhecimento em Python, Rede local, Front-end e Back-end, 
@@ -15,4 +15,27 @@ banco-capital/
 
 ```
 
-<!--
+# Instalação
+Para rodar o projeto você precisa instalar o servidor do Banco Capital em sua máquina ([banco-capital-server](https://github.com/vitao-al/banco-capital-server.git))
+# Rodar o projeto
+1° Etapa: inicializar o servidor. Navegue até o diretório do servidor e rode:
+```python
+    python server.py
+
+```
+Irá se deparar com esse log caso dê tudo certo.
+
+```bash
+    Aguardando conexão...
+```
+2° Etapa: baixar esse repositório e retirar separar a pasta "banco-capital-client"
+3° Etapa: navegar até o diretório que você colocou a pasta "banco-capital-client" e rodar o seguinte comando para abrir a INTERFACE.
+```python
+    python Banco_Capital.py
+
+```
+Essa é a resposta do servidor ao se conectar com lado do cliente.
+```python
+Conectado a ('127.0.0.1', 54401)
+
+```

@@ -8,10 +8,31 @@ utilizando a linguagem  ![Python](https://img.shields.io/badge/python-3670A0?sty
 
 # Estrutura do projeto
 ```python
-banco-capital/
-├── banco-capital-client/   # Interface do usuário
-├── banco-capital-server/   # Lógica de negócios e manipulação de dados
-└── README.md               # Documentação do projeto
+banco-capital-client/
+├── docs/
+│   └── TODO.md
+├── src/
+│   ├── bank_screen_options/
+│   │   ├── __init__.py
+│   │   ├── bank_menu.py
+│   │   └── lear
+│   ├── credencial_screen/
+│   │   └── server_handler/
+│   │       ├── __init__.py
+│   │       ├── lear
+│   │       ├── server_operations.py
+│   │       ├── server_requests.py
+│   │       ├── credencial_shell.py
+│   │       └── verificar_cpf_inexistente.py
+│   ├── __init__.py
+│   └── view/
+│       ├── __init__.py
+│       ├── gerar_grafico_transferencias.py
+│       ├── Banco_Capital.py
+│       └── client.py
+├── README.md
+└── requirements.txt
+
 
 ```
 
